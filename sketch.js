@@ -32,7 +32,7 @@ let foodInd = [0, 0, 0, 0];
 let counter = 0;
 
 //0: home screen, 1: stove game, 2: ingredients, 3: rolling
-let screen = 2;
+let screen = 0;
 let gui;
 let slider1;
 let submit;
